@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+sklearn.model_selection (specifically for train_test_split)
+sklearn.ensemble (specifically for RandomForestRegressor)
+pickle
